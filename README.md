@@ -38,11 +38,13 @@ Tauri、React、Material-UIで構築されたモダンで機能豊富なポモ�
 ## 🖼️ スクリーンショット
 
 ### メインタイマー画面
-![メインタイマー画面](docs/images/main-timer.png)
+<img src="docs/images/main-timer.png" alt="メインタイマー画面" width="400">
+
 *モード選択付きメインタイマーインターフェース - 集中モード、休憩モード、タイマーモード、ポロモードプランの選択が可能*
 
 ### 分析ダッシュボード
-![分析ダッシュボード](docs/images/analytics-dashboard.png)
+<img src="docs/images/analytics-dashboard.png" alt="分析ダッシュボード" width="400">
+
 *統計付き分析ダッシュボード - 日別、カテゴリ別、モード別の詳細な生産性追跡*
 
 
