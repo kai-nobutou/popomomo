@@ -1,4 +1,4 @@
-# 🍅 Popomomo
+#  Popomomo
 
 Tauri、React、Material-UIで構築されたモダンで機能豊富なポモドーロタイマーデスクトップアプリケーション。
 
